@@ -1,0 +1,7 @@
+D:\practic exercise\assignment23\assignment23\bin\Debug\assignment23.exe.config
+D:\practic exercise\assignment23\assignment23\bin\Debug\assignment23.exe
+D:\practic exercise\assignment23\assignment23\bin\Debug\assignment23.pdb
+D:\practic exercise\assignment23\assignment23\obj\Debug\assignment23.csproj.AssemblyReference.cache
+D:\practic exercise\assignment23\assignment23\obj\Debug\assignment23.csproj.CoreCompileInputs.cache
+D:\practic exercise\assignment23\assignment23\obj\Debug\assignment23.exe
+D:\practic exercise\assignment23\assignment23\obj\Debug\assignment23.pdb
